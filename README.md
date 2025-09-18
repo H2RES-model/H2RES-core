@@ -8,6 +8,10 @@ The H2RES model was developed to support energy system modeling, development, an
 
 H2RES is an open-source tool, which ensures transparency, allows verification of equations, and facilitates user-driven development. The model incorporates several energy storage technologies, including stationary batteries, hydrogen storage, electric vehicle batteries, and thermal storage in both individual and district heating systems. Integrating these storage options enhances demand flexibility, as they can accumulate energy, operate independently of immediate demand, and participate in markets and balancing services.
 
+## Features
+
+![H2RES Model](https://github.com/H2RES-model/H2RES-core/blob/main/Figure/H2RES.svg  "H2RES model")
+
 ## Research team
 
 * Neven Duić - Faculty of Mechanical Engineering and Naval Architecture, University of Zagreb.
