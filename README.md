@@ -16,6 +16,7 @@ H2RES is an open-source tool, which ensures transparency, allows verification of
 
 <details>
   <summary>🔽 Peer Reviewed Articles</summary>
+  
 * Pastore, L. M., Groppi, D., Feijoo, F., Lentini, A., Lo Basso, G., Garcia, D. A., & De Santoli, L. (2025) Long-Term Decarbonisation of Hard-to-Abate Industrial Thermal Demand for 100% Renewable Energy System. _Energy_,  doi: [10.1016/j.energy.2025.136384](https://www.sciencedirect.com/science/article/pii/S0360544225020262)
 
 * Koričan, M., Herc, L., Pfeifer, A., Vladimir, N., & Duić, N.  (2024). Long-term influence of the gradual naval fleets decarbonization on the flexibility of an integrated energy system. _Sustainable energy technologies and assessments_, doi: [10.1016/j.seta.2024.104041](https://www.sciencedirect.com/science/article/pii/S2213138824004375#s0010)
