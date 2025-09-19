@@ -21,26 +21,7 @@ H2RES is an open-source tool, which ensures transparency, allows verification of
   - Item 3  
 <details>
 
-<details>
-  <summary>🔽 Under Review Articles</summary>
-  - Item 1  
-  - Item 2  
-  - Item 3  
-<details>
 
-<details>
-  <summary>🔽 Preparation Articles</summary>
-  - Item 1  
-  - Item 2  
-  - Item 3  
-<details>
-
-<details>
-  <summary>🔽 Conference Articles</summary>
-  - Item 1  
-  - Item 2  
-  - Item 3  
-<details>
 
   
 ## Research team
