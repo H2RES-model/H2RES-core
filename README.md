@@ -12,17 +12,37 @@ H2RES is an open-source tool, which ensures transparency, allows verification of
 
 ![H2RES Model](https://github.com/H2RES-model/H2RES-core/blob/main/Figure/H2RES.svg  "H2RES model")
 
-## Featuressadasds
+## Research outputs
 
 <details>
-  <summary>🔽 Haz clic aquí para desplegar</summary>
-
-  Aquí puedes escribir lo que quieras dentro del bloque desplegable:
-
+  <summary>🔽 Peer Reviewed Articles</summary>
   - Item 1  
   - Item 2  
   - Item 3  
 <details>
+
+<details>
+  <summary>🔽 Under Review Articles</summary>
+  - Item 1  
+  - Item 2  
+  - Item 3  
+<details>
+
+<details>
+  <summary>🔽 Preparation Articles</summary>
+  - Item 1  
+  - Item 2  
+  - Item 3  
+<details>
+
+<details>
+  <summary>🔽 Conference Articles</summary>
+  - Item 1  
+  - Item 2  
+  - Item 3  
+<details>
+
+  
 ## Research team
 
 * Neven Duić - Faculty of Mechanical Engineering and Naval Architecture, University of Zagreb.
