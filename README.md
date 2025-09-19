@@ -44,17 +44,44 @@ H2RES is an open-source tool, which ensures transparency, allows verification of
 <details>
   <summary>🔽 Under Review Articles</summary>
 
+  * Pfeifer, A., Feijoo, F., Flores, F., Herc, L., Vrbanac, L.,   & Duic, N. (2025) Introducing circular economy of the rare Earth minerals in Long-term Energy Systems Configuration
+Optimization Approach. _Energy Conversion and Management: X_.
+
+* Flores, F., Feijoo, F., Beljan, D., Herc, L., Pfeifer, A., & Duic, N. (2025) Coupling Integrated Assessment and Energy System Models to Evaluate Hydrogen Strategies and Transmission Planning in South America. _Energy_.
+
 </details>
 
 <details>
   <summary>🔽 Preparation Articles</summary>
 
+* Herc, L., Beljan, D., Feijoo, F., Pfeifer, A., & Duić, N. Implementation of e-fuel modelling and process pipelines into energy planning and optimization tool H2RES.
+
+* Herc, L., Pfeifer, A., Feijoo, F., Groppi, D., & Duić, N. Modelling the interconnected energy systems: The assessment of the merit order price forming in the realm of multizonal 100% RES energy systems.
+
+* Herc, L., Perković, L., Pukšec, T., & Duić, N. Modelling decarbonisation of the transport sector with method for assessing vehicle driving cycles based on real GPS data.
+
+* Herc, L., Kundu, A., Ali, S., Feijoo, F., Pfeifer, A., & Duić, N. Implementation of the myopic approach in the H2RES model.
+
+* Herc, L., Pfeifer, A., & Feijoo, F. Influence of demand-side flexibility in electricity demand sectors on deployment of flexibility options – a long-term energy systems' modelling perspective.
+
+* Pastore, L. M., Groppi, D., Feijoo, F., Flores, F., Kundu, A., Herc, L., Astiaso Garcia, D., de Santoli, L., & Duić, N. Assessing the future cost of hydrogen in fully decarbonised energy systems: a long-term optimisation study in Italy.
+
+* Groppi, D., Pastore, L. M., Bekele, E., Flores, F., Feijoo, F., Astiaso Garcia, D., & de Santoli, L. Assessing the Impact of Multi-zone Modelling in Planning the Italian Energy Transition to a 100% Renewable Energy System
+
+* Castaneda, M., Flores, F., Feijoo, F., & Duić, N. Assessing the feasibility and resilience of a 100% Renewable Electricity System in Colombia
+
+* Ali, S., Herc, L., Raza, A., Pfeifer, A., Kundu, A., & Duić, N. Adapting the H2RES model for comprehensive techno-economic power system analysis: A case study of Pakistan.
+
+* Ali, S., Pfeifer, A., Raza, A., Herc, L., & Duić, N. Towards 100% clean, green and sustainable energy transition paradigm: A data-driven insight for multi-climate zone energy sector: A case study of Pakistan.
 </details>
 
 <details>
-  <summary>🔽 Conference Articles</summary>
+  <summary>🔽 Thesis </summary>
 
-
+* Pugliese, F.,  & Calise, F. (2024). Development of an innovative approach to energy planning to achieve the 2050 Decarbonization targets: A case study of Italy. University of Naples Federico II, Naples, Italy. [_Master's thesis_]()
+  
+* Beljan, D.,  & Duić, N. (2022). Sensitivity analysis of future energy system configurations with regard to resource availability. University of Zagreb, Zagreb,Croatia. [_Master's thesis_](https://repozitorij.fsb.unizg.hr/islandora/object/fsb:8295)
+* 
 </details>
 
 
