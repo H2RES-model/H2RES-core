@@ -37,7 +37,8 @@ H2RES is an open-source tool, which ensures transparency, allows verification of
 * Feijoo, F., Pfeifer, A., Herc, L., Groppi, D., & Duić, N. (2022). A long-term capacity investment and operational energy planning model with power-to-X and flexibility technologies. _Renewable and Sustainable Energy Reviews_, doi: [10.1016/j.rser.2022.112781](https://www.sciencedirect.com/science/article/pii/S1364032122006657)
 
 * Herc, L., Pfeifer, A., Feijoo, F., & Duić, N. (2021). Energy system transitions pathways with the new H2RES model: A comparison with existing planning tool. _e-Prime-Advances in Electrical Engineering, Electronics and Energy_, doi: [10.1016/j.prime.2021.100024](https://www.sciencedirect.com/science/article/pii/S2772671121000231)
-<details>
+
+
 
 
 
