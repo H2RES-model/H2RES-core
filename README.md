@@ -16,6 +16,8 @@ H2RES is an open-source tool, which ensures transparency, allows verification of
 
 <details>
   <summary>🔽 Peer Reviewed Articles </summary>
+
+* Herc, L., Perković, L., Pukšec, T., & Duić, N. (2025) Modelling decarbonisation of the transport sector with method for assessing vehicle driving cycles based on real GPS data. _e-Prime-Advances in Electrical Engineering, Electronics and Energy_, doi: [10.1016/j.prime.2025.101067](https://www.sciencedirect.com/science/article/pii/S2772671125001743)
   
 * Pastore, L. M., Groppi, D., Feijoo, F., Lentini, A., Lo Basso, G., Garcia, D. A., & De Santoli, L. (2025) Long-Term Decarbonisation of Hard-to-Abate Industrial Thermal Demand for 100% Renewable Energy System. _Energy_,  doi: [10.1016/j.energy.2025.136384](https://www.sciencedirect.com/science/article/pii/S0360544225020262)
 
@@ -57,8 +59,6 @@ Optimization Approach. _Energy Conversion and Management: X_.
 * Herc, L., Beljan, D., Feijoo, F., Pfeifer, A., & Duić, N. Implementation of e-fuel modelling and process pipelines into energy planning and optimization tool H2RES.
 
 * Herc, L., Pfeifer, A., Feijoo, F., Groppi, D., & Duić, N. Modelling the interconnected energy systems: The assessment of the merit order price forming in the realm of multizonal 100% RES energy systems.
-
-* Herc, L., Perković, L., Pukšec, T., & Duić, N. Modelling decarbonisation of the transport sector with method for assessing vehicle driving cycles based on real GPS data.
 
 * Herc, L., Kundu, A., Ali, S., Feijoo, F., Pfeifer, A., & Duić, N. Implementation of the myopic approach in the H2RES model.
 
