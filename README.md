@@ -39,6 +39,13 @@ H2RES is an open-source tool, which ensures transparency, allows verification of
 
 * Herc, L., Pfeifer, A., Feijoo, F., & Duić, N. (2021). Energy system transitions pathways with the new H2RES model: A comparison with existing planning tool. _e-Prime-Advances in Electrical Engineering, Electronics and Energy_, doi: [10.1016/j.prime.2021.100024](https://www.sciencedirect.com/science/article/pii/S2772671121000231)
 
+</details>
+
+<details>
+  <summary>🔽 Under Review Articles</summary>
+
+</details>
+
 
 
 
