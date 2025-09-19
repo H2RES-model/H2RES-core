@@ -15,7 +15,7 @@ H2RES is an open-source tool, which ensures transparency, allows verification of
 ## Research outputs
 
 <details>
-  <summary>🔽 Peer Reviewed Articles </summary>
+  <summary>🔽 <b>Peer Reviewed Articles </b> </summary>
 
 * Herc, L., Perković, L., Pukšec, T., & Duić, N. (2025) Modelling decarbonisation of the transport sector with method for assessing vehicle driving cycles based on real GPS data. _e-Prime-Advances in Electrical Engineering, Electronics and Energy_, doi: [10.1016/j.prime.2025.101067](https://www.sciencedirect.com/science/article/pii/S2772671125001743)
   
@@ -44,7 +44,7 @@ H2RES is an open-source tool, which ensures transparency, allows verification of
 </details>
 
 <details>
-  <summary>🔽 Under Review Articles </summary>
+  <summary>🔽<b>Under Review Articles </b></summary>
 
   * Pfeifer, A., Feijoo, F., Flores, F., Herc, L., Vrbanac, L.,   & Duic, N. (2025) Introducing circular economy of the rare Earth minerals in Long-term Energy Systems Configuration
 Optimization Approach. _Energy Conversion and Management: X_.
@@ -54,7 +54,7 @@ Optimization Approach. _Energy Conversion and Management: X_.
 </details>
 
 <details>
-  <summary>🔽 Preparation Articles </summary>
+  <summary>🔽 <b>Preparation Articles</b> </summary>
 
 * Herc, L., Beljan, D., Feijoo, F., Pfeifer, A., & Duić, N. Implementation of e-fuel modelling and process pipelines into energy planning and optimization tool H2RES.
 
@@ -76,7 +76,7 @@ Optimization Approach. _Energy Conversion and Management: X_.
 </details>
 
 <details>
-  <summary>🔽 Thesis </summary>
+  <summary>🔽 <b>Thesis</b> </summary>
 
 * Pugliese, F.,  & Calise, F. (2024). Development of an innovative approach to energy planning to achieve the 2050 Decarbonization targets: A case study of Italy. University of Naples Federico II, Naples, Italy. [_Master's thesis_]()
   
