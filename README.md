@@ -15,7 +15,7 @@ H2RES is an open-source tool, which ensures transparency, allows verification of
 ## Research outputs
 
 <details>
-  <summary>🔽 **Peer Reviewed Articles**</summary>
+  <summary>🔽 __Peer Reviewed Articles__</summary>
   
 * Pastore, L. M., Groppi, D., Feijoo, F., Lentini, A., Lo Basso, G., Garcia, D. A., & De Santoli, L. (2025) Long-Term Decarbonisation of Hard-to-Abate Industrial Thermal Demand for 100% Renewable Energy System. _Energy_,  doi: [10.1016/j.energy.2025.136384](https://www.sciencedirect.com/science/article/pii/S0360544225020262)
 
