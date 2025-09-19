@@ -49,7 +49,7 @@ H2RES is an open-source tool, which ensures transparency, allows verification of
   * Pfeifer, A., Feijoo, F., Flores, F., Herc, L., Vrbanac, L.,   & Duic, N. (2025) Introducing circular economy of the rare Earth minerals in Long-term Energy Systems Configuration
 Optimization Approach. _Energy Conversion and Management: X_.
 
-* Flores, F., Feijoo, F., Beljan, D., Herc, L., Pfeifer, A., & Duic, N. (2025) Coupling Integrated Assessment and Energy System Models to Evaluate Hydrogen Strategies and Transmission Planning in South America. _Energy_.
+* Flores, F., Feijoo, F., Beljan, D., Herc, L., Pfeifer, A., Mikulčić, H., & Duic, N. (2025) Coupling Integrated Assessment and Energy System Models to Evaluate Hydrogen Strategies and Transmission Planning in South America. _Energy_.
 
 </details>
 
