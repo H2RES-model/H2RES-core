@@ -81,7 +81,6 @@ Optimization Approach. _Energy Conversion and Management: X_.
 * Pugliese, F.,  & Calise, F. (2024). Development of an innovative approach to energy planning to achieve the 2050 Decarbonization targets: A case study of Italy. University of Naples Federico II, Naples, Italy. [_Master's thesis_]()
   
 * Beljan, D.,  & Duić, N. (2022). Sensitivity analysis of future energy system configurations with regard to resource availability. University of Zagreb, Zagreb,Croatia. [_Master's thesis_](https://repozitorij.fsb.unizg.hr/islandora/object/fsb:8295)
-* 
 </details>
 
 
